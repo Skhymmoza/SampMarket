@@ -1,2 +1,14 @@
-# SampMarket
-Sampmarket - app store for samp modifiactions
+[
+  {
+    "name": "Neizer BR",
+    "description": "Neizer BR - лаунчер для CRMP проекта Black Russia, с возможностью скачивать сборки.",
+    "app_icon": "https://ibb.co/hxKfs4wk",
+    "download_link": "https://www.dropbox.com/scl/fi/35g50skdbaj0456r4yn7m/update.apk?rlkey=t61o2uw7x99r78xc9cnqbod4b&st=p7bfk30y&dl=0"
+  },
+  {
+    "name": "SAMP Market",
+    "description": "SAMP Market - маркетплейс бесплатных модификаций для SAMP/CRMP проектов, выложено сюда с целью, позволять пользователям быстро скачивать обновления",
+    "app_icon": "https://ibb.co/hk94RDN",
+    "download_link": "SOON"
+  }
+]
