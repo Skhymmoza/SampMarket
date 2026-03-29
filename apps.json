@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Neizer BR",
+    "description": "Neizer BR - лаунчер для CRMP.",
+    "app_icon": "",
+    "download_link": "https://dl.dropboxusercontent.com/scl/fi/35g50skdbaj0456r4yn7m/update.apk?rlkey=t61o2uw7x99r78xc9cnqbod4b&dl=1",
+    "category": "CRMP",
+    "version": "1.0.0"
+  },
+  {
+    "name": "SAMP Market",
+    "description": "SAMP Market - маркетплейс модификаций.",
+    "app_icon": "",
+    "download_link": "SOON",
+    "category": "Магазин",
+    "version": "1.0.0"
+  }
+]
